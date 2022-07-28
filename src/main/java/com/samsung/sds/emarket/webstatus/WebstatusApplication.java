@@ -11,6 +11,7 @@ public class WebstatusApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebstatusApplication.class, args);
+		System.out.println("Ok! WebStatus Service Ready!!");
 	}
 
 }
